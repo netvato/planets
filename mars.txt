@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favortie color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+=======
+Cold and dry, but everything is my favorite color
+The two moons may be a problem for Wolfman
+But the Mummy will appreciate the lack of humidity
+Added more
+>>>>>>> 93043d9a2b222555eff751cb9b560cc19c3e1f74

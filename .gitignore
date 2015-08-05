@@ -1,2 +1,6 @@
 *.dat
+<<<<<<< HEAD
 results/
+=======
+/results
+>>>>>>> 93043d9a2b222555eff751cb9b560cc19c3e1f74
